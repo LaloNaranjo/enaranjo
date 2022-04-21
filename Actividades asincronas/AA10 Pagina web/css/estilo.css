@@ -1,6 +1,31 @@
 /* Archivo de estilos */
 
 img{
-  width: auto;
-  height: auto;
+  width: auto: 50%;
+  height: auto: 50%;
 }
+
+#name {
+color: #FF2F26;
+font-family: 'Dancing Script', cursive;
+}
+
+.azul{
+color: #0000FF;
+font-family: 'Montserrat', sans-serif;
+}
+
+.parrafo{
+color: #1AFF2C;
+font-family: 'Square Peg', cursive;
+font-size: 50px;
+}
+
+.lista{
+color: #1ECCE6;
+}
+
+.listas{
+color: #E617B2;
+}
+
