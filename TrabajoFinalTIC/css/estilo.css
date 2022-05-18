@@ -1,0 +1,71 @@
+/* Archivo de estilos */
+
+body {
+  background-color: #F5F5F5;
+}
+
+
+/* #tabla{
+    width: auto;
+    height: auto;
+} */
+
+
+img.escudo{
+  width: 40%;
+}
+
+#fondoesc{
+	background: #256d7b;
+}
+
+img.cc{
+  width: 10%;
+}
+
+.header {
+  text-align: center;
+}
+
+#name {
+color: #282C34;
+font-family: 'Ms Madi', cursive;
+font-size: 50px;
+}
+
+.name {
+color: #282C34;
+font-family: 'Ms Madi', cursive;
+font-size: 20px;
+}
+
+div.a {
+  text-align: center;
+}
+
+.qgiscloud{
+  width: 100% !important;
+  height: 500px;
+
+}
+
+#titgeo{
+color: #437A16;
+background: #CDFEAA;
+font-family: 'Square Peg', cursive;
+font-size: 30px;
+}
+
+.licenciatura{ 
+color: #ff0000;
+background-color: #00ff00;
+}
+
+a:visited {
+  color: #437A16;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
