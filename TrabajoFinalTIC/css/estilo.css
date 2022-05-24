@@ -12,11 +12,11 @@ body {
 
 
 img.escudo{
-  width: 40%;
+  width: 70%;
 }
 
 #fondoesc{
-	background: #256d7b;
+	background: #04B7FA;
 }
 
 img.cc{
@@ -61,11 +61,49 @@ color: #ff0000;
 background-color: #00ff00;
 }
 
-a:visited {
-  color: #437A16;
+a:link {
+	color: #47F700;
+}
+
+a: visited {
+  color: #020202;
 }
 
 a:hover {
   border-bottom: 1px solid;
   background: #CDFEAA;
+}
+
+.links {
+background: #0B6602;
+font-family: 'Square Peg', cursive;
+font-size: 30px;
+}
+/* Estilo del título */
+#titgeo{
+	color: #10157A;
+	background-color: #06F670;
+	font-family: 'Macondo', cursive;
+}
+
+/* Estilo del nombre de la asignatura */
+#titec{
+	color: #10157A;
+	background-color: #06F69F; 
+	font-family: 'Macondo', cursive;
+}
+
+/*Estilo del nombre de licenciatura*/ 
+#tilic{
+	color: #0623F6;
+	background-color: #06A6F6; 
+	font-family: 'Macondo', cursive; 
+}
+
+#texto{
+	color: #;
+	background: #0FFA04;
+	font-family: 'Odibee Sans', cursive;
+font-size: 20px;
+
 }
